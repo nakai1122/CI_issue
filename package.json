@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nakai1122/heroku.git"
+    "url": "git+https://github.com/nakai1122/CI_issue.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nakai1122/heroku/issues"
+    "url": "https://github.com/nakai1122/CI_issue/issues"
   },
-  "homepage": "https://github.com/nakai1122/heroku#readme",
+  "homepage": "https://github.com/nakai1122/CI_issue#readme",
   "dependencies": {
     "csv": "^6.0.5",
     "express": "^4.17.2",
